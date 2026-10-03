@@ -1,0 +1,2 @@
+description = "Plan social content using Tareno account analytics"
+prompt = """Use Tareno to inspect connected accounts and recent analytics, then suggest a content plan with metric-based reasoning. User request: {{args}}. Create drafts only when requested. Ask for account context when ambiguous."""

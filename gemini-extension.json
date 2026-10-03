@@ -1,0 +1,12 @@
+{
+  "name": "tareno",
+  "version": "1.0.0",
+  "description": "Plan social content, analyze performance, and manage approval-backed publishing with Tareno.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "tareno": {
+      "httpUrl": "https://tareno.co/api/mcp",
+      "timeout": 60000
+    }
+  }
+}
